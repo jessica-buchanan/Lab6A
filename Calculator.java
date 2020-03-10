@@ -18,6 +18,7 @@ public class Calculator {
         System.out.println("3. Multiplication");
         System.out.println("4. Division");
         //calculator menu
+        //need to add a comment for GitHub
 
         System.out.println("Which operation do you want to perform? ");
         int choice = scan.nextInt();

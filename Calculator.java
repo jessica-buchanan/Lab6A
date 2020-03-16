@@ -48,7 +48,7 @@ public class Calculator {
             System.out.println("Error: Invalid selection! Terminating program.");
         }
 
-         if (choice < 1)   {
+         if (choice < 1)   { //exits program bc invalid input
              System.out.println("Error: Invalid selection! Terminating program.");
          }
             //if statements
